@@ -1,0 +1,14 @@
+
+ul.horizontal-list-no-list-style {
+  padding: .5em 0;
+  li {
+    list-style: none;
+    display: inline-block;
+    &:not(:last-of-type) {
+      margin-right: 1em;
+    }
+    a {
+      color: @gray
+    }
+  }
+}

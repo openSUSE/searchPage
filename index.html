@@ -6,37 +6,38 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <link   href="assets/css/openSUSE.less"  type="text/css" rel="stylesheet/less" />
-    <script src="assets/js/jquery.min.js"    type="text/javascript"></script>
-    <script src="assets/js/less.min.js"          type="text/javascript"></script>
-    <script src="assets/js/bootstrap.min.js" type="text/javascript"></script>
-    <script src="assets/js/modernizr.js"     type="text/javascript"></script>
+    <link   href="assets/css/openSUSE.less"           type="text/css" rel="stylesheet/less" />
+    <script src="assets/js/jquery.min.js"             type="text/javascript"></script>
+    <script src="assets/js/less.min.js"               type="text/javascript"></script>
+    <script src="assets/js/bootstrap.min.js"          type="text/javascript"></script>
+    <script src="assets/js/modernizr.js"              type="text/javascript"></script>
+    <script src="assets/js/OpenSUSE-search-layout.js" type="text/javascript"></script>
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
       <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
   </head>
-  <body>
+  <body id="search-index">
     <div class="container-fluid">
       <header>
-        <ul class="pull-right horizontal-list-no-list-style">
+        <ul class="text-right horizontal-list-no-list-style">
           <li>
-            <a href="">Get Software</a>
+            <a href="http://software.opensuse.org/">Get Software</a>
           </li>
           <li>
-            <a href="">Wiki</a>
+            <a href="http://es.opensuse.org/">Wiki</a>
           </li>
           <li>
-            <a href="">Build Service</a>
+            <a href="http://build.opensuse.org/">Build Service</a>
           </li>
         </ul>
       </header>
       <section>
         <div class="row">
-          <div class="col-md-offset-3 col-md-6 text-center">
-            <img src="assets/images/doodle-demo.jpg" class="img-responsive" />
-            <form method="get" action="https://www.google.com/search">
+          <div class="fixed-column-form text-center">
+            <img src="assets/images/doodle-demo.jpg" />
+            <form method="get" action="https://www.google.com/search" class="index-search-form">
               <div class="input-group">
                 <input type="text" name="q" class="form-control" />
                 <span class="input-group-btn">
@@ -49,10 +50,32 @@
       </section>
     </div>
     <footer>
-      s
+      <div class="row-0-margin">
+        <div class="col-md-3"></div>
+        <div class="col-md-6">
+          <ul class="text-center horizontal-list-no-list-style">
+            <li>
+              <a href="http://connect.opensuse.org/">Social Network</a>
+            </li>
+            <li>
+              <a href="http://news.opensuse.org/">News</a>
+            </li>
+            <li>
+              <a href="http://forums.opensuse.org/">Forum</a>
+            </li>
+            <li>
+              <a href="http://shop.opensuse.org/">Shop</a>
+            </li>
+            <li>
+              <a href="http://lizards.opensuse.org/">Blog</a>
+            </li>
+            <li>
+              <a href="mailto:press@opensuse.org">Press</a>
+            </li>
+          </ul>
+        </div>
+        <div class="col-md-3"></div>
+      </div>
     </footer>
-    <!--<h1>Hello World</h1>
-    <h5>We will build</h5>
-    <img src="mockup/demo-doodle.jpg" class="img-responsive" /> -->
 </body>
 </html>

@@ -1,6 +1,8 @@
 
 body {
   background: @search-body-background;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 body, html {
@@ -9,26 +11,20 @@ body, html {
 
 header {
   height: 30px;
+  display: block;
 }
 
 section {
-  height: 100%;
-  padding-top: 30px;
+  display: block;
 }
 
 footer {
   background: @search-footer-background;
-  height: 80px;
+  height: 90px;
   border-top: 1px solid @search-footer-border;
   width: 100%;
-  position: relative;
-  top: -80px;
   padding: 0 1em;
 }
 
-.container-fluid {
-  min-height: 100%;
-  padding-bottom: 80px;
-}
 
 

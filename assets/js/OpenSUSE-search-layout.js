@@ -24,7 +24,7 @@ function layout_fix () {
 
   if ( remaining > sectionHeight ) {
     $('#search-index .fixed-column-form').css({
-      'padding-top': ((remaining - sectionHeight) / 2) + 'px'
+      'padding-top': ((remaining - sectionHeight) / 3) + 'px'
     })
     $('#search-index .container-fluid').css({
       height: remaining + headerHeight + 'px'

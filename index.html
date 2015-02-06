@@ -39,7 +39,7 @@
           <div class="fixed-column-form text-center">
             <img src="assets/images/doodle-demo.jpg" class="img-responsive" />
             <form method="get" action="https://www.google.com/search" class="index-search-form">
-              <div class="input-group">
+              <div class="input-group input-group-sm">
                 <img src="assets/images/opensuse-logo.png" class="opensuse-logo-fixed" />
                 <input type="text" name="q" class="form-control" />
                 <span class="input-group-btn">
@@ -109,7 +109,7 @@
 
         <div class="col-md-3 hidden-sm hidden-xs select-translation">
           <form method="post" action="#">
-            <div class="input-group">
+            <div class="input-group input-group-sm">
               <span class="input-group-addon">
                 <img src="https://www.opensuse.org/images/flags/gb.png" alt="nyelv" title="nyelv">
               </span>
@@ -121,7 +121,7 @@
                 <option value="da" style="background-image:url(/images/flags/dk.png);">Danish</option>
                 <option value="de" style="background-image:url(/images/flags/de.png);">Deutsch</option>
                 <option value="el" style="background-image:url(/images/flags/gr.png);">Ελληνικά</option>
-                <option value="en" style="background-image:url(/images/flags/gb.png);">English</option>
+                <option value="en" style="background-image:url(/images/flags/gb.png);" selected>English</option>
                 <option value="fr" style="background-image:url(/images/flags/fr.png);">Français</option>
                 <option value="hu" style="background-image:url(/images/flags/hu.png);">Magyar</option>
                 <option value="it" style="background-image:url(/images/flags/it.png);">Italiano</option>
@@ -130,20 +130,19 @@
                 <option value="nb" style="background-image:url(/images/flags/no.png);">Norwegian bokmål</option>
                 <option value="pl" style="background-image:url(/images/flags/pl.png);">Polski</option>
                 <option value="pt-br" style="background-image:url(/images/flags/br.png);">Português (br)</option>
-                <option value="ru" style="background-image:url(/images/flags/ru.png);">Русский</option>
-                <!--option value="sk" style="background-image:url(/images/flags/sk.png);">Slovensky</option-->
+                <option value="ru" style="background-image:url(/images/flags/ru.png);">Русский</option>-->
                 <option value="fi" style="background-image:url(/images/flags/fi.png);">Suomi</option>
                 <option value="jp" style="background-image:url(/images/flags/jp.png);">日本語</option>
                 <option value="zh-cn" style="background-image:url(/images/flags/cn.png);">简体中文</option>
                 <option value="zh-tw" style="background-image:url(/images/flags/tw.png);">繁體中文</option>
                 <option value="th" style="background-image:url(/images/flags/th.png);">ภาษาไทย</option>
                 <option value="uk" style="background-image:url(/images/flags/ua.png);">українська</option>
-
               </select>
-              <noscript>
-                <input type="submit" name="submit" value="change" />
-              </noscript>
+              <div class="caret-down"></div>
             </div>
+            <noscript>
+              <input type="submit" name="submit" value="change" />
+            </noscript>
           </form>
         </div>
       </div>

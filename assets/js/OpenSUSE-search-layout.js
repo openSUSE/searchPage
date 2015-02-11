@@ -7,7 +7,7 @@ var remaining      = 0
 $(window).on("load", function() {
   sectionHeight  = $('#search-index section').outerHeight();
   headerHeight   = 30;//$('#search-index header').outerHeight(); => doesnt work correctly in Firefox. Fix and re-aply.
-  footerHeight   = 90;//$('#search-index footer').outerHeight(); => doesnt work correctly in Firefox. Fix and re-aply.
+  footerHeight   = 60;//$('#search-index footer').outerHeight(); => doesnt work correctly in Firefox. Fix and re-aply.
   layout_fix();
 
 });

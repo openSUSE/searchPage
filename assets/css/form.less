@@ -33,8 +33,13 @@ footer .input-group  {
       background: @suse-new-brand-colour-hover;
     }
   }
-  input[type="text"], input[type="submit"] {
+  input[type="text"].form-control:nth-child(2),
+  .input-group-sm > .form-control, .input-group-sm > .input-group-addon, .input-group-sm > .input-group-btn > input[type="submit"] {
     border: @suse-new-brand-colour 1px solid;
-    border-radius: 0px;
+    border-radius: 0 2px 2px 0;
+  }
+  input[type="text"].form-control:nth-child(2) {
+    border-radius: 2px 0 0 2px;
+    border: @suse-new-brand-colour 1px solid;
   }
 }

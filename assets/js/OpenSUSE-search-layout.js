@@ -69,3 +69,48 @@ $(window).on("load", function() {
   });
 
 });
+
+
+//*****************init i18n
+
+var lang = new Lang('en');
+//languages setup - please list here all new language packs
+window.lang.dynamic('es', 'assets/js/langpack/es.json');
+window.lang.dynamic('ca', 'assets/js/langpack/ca.json');
+window.lang.dynamic('de', 'assets/js/langpack/de.json');
+window.lang.dynamic('el', 'assets/js/langpack/el.json');
+window.lang.dynamic('it', 'assets/js/langpack/it.json');
+window.lang.dynamic('ja', 'assets/js/langpack/ja.json');
+window.lang.dynamic('nl', 'assets/js/langpack/nl.json');
+window.lang.dynamic('nn', 'assets/js/langpack/nn.json');
+window.lang.dynamic('pl', 'assets/js/langpack/pl.json');
+window.lang.dynamic('pt_BR', 'assets/js/langpack/pt_BR.json');
+window.lang.dynamic('sk', 'assets/js/langpack/sk.json');
+window.lang.dynamic('uk', 'assets/js/langpack/uk.json');
+window.lang.dynamic('zh_TW', 'assets/js/langpack/zh_TW.json');
+window.lang.dynamic('zh_CN', 'assets/js/langpack/zh_CN.json');
+window.lang.dynamic('ru', 'assets/js/langpack/ru.json');
+window.lang.dynamic('fr', 'assets/js/langpack/fr.json');
+
+//change language on click
+$(document).on("click", ".change-language", function() {
+  var languageSelected = $(this).data('language-value');
+  var languageString = $(this).html();
+  $("body").fadeOut(300, function() {
+    window.lang.change(languageSelected);
+    $(".selected-language").html(languageString);
+    $(this).fadeIn(300);
+  });
+
+  return false;
+})
+
+//check if there is a langCookie in the browser
+$(document).on("ready", function(){
+  if(cookieLanguage != "") {
+    var selectedLanguageName = $(".languages").find("[data-language-value='"+ cookieLanguage+"']").html()
+    $(".selected-language").html(selectedLanguageName);
+  }
+
+});
+//*****************

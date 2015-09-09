@@ -11,7 +11,12 @@ var uglify = require('gulp-uglify');
 var rename = require('gulp-rename');
 
 gulp.task('customeScripts', function() {
-  return gulp.src([assets + 'js/jquery.min.js', assets + 'js/bootstrap.min.js', assets + 'js/modernizr.js', assets + 'js/OpenSUSE-search-layout.js'])
+  return gulp.src([assets + 'js/jquery.min.js',
+                   assets + 'js/bootstrap.min.js',
+                   assets + 'js/modernizr.js',
+                   assets + 'js/jquery-cookie.js',
+                   assets + 'js/jquery-lang.js',
+                   assets + 'js/OpenSUSE-search-layout.js'])
     .pipe(concat('main.js'))
     .pipe(rename({suffix: '.min'}))
     .pipe(uglify())

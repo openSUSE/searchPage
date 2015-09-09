@@ -8343,7 +8343,7 @@ html {
   height: 100%;
 }
 header {
-  height: 30px;
+  height: 50px;
   display: block;
 }
 section {
@@ -8402,6 +8402,10 @@ ul.horizontal-list-no-list-style li a {
 .select-translation h6 {
   padding-right: 1em;
 }
+.select-translation .dropup .dropdown-menu {
+  right: 0;
+  left: auto !important;
+}
 select {
   -webkit-appearance: none;
   -moz-appearance: none;
@@ -8432,9 +8436,9 @@ footer .input-group select.form-control:not(:first-child):not(:last-child) {
   background: #007f4a;
 }
 .index-search-form input[type="text"].form-control:nth-child(2),
-.index-search-form .input-group-sm > .form-control,
-.index-search-form .input-group-sm > .input-group-addon,
-.index-search-form .input-group-sm > .input-group-btn > input[type="submit"] {
+.index-search-form .input-group > .form-control,
+.index-search-form .input-group > .input-group-addon,
+.index-search-form .input-group > .input-group-btn > input[type="submit"] {
   border: #00b268 1px solid;
   border-radius: 0 2px 2px 0;
 }

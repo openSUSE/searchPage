@@ -1,0 +1,45 @@
+
+//fix to remove all the inherited styles from the browser
+select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  -webkit-border-radius: 0px;
+  cursor: pointer;
+}
+
+footer .input-group  {
+  select.form-control:not(:first-child):not(:last-child) {
+    -webkit-border-radius: 0px 4px 4px 0px;
+    border-radius: 0px 4px 4px 0px;
+  }
+}
+
+.caret-down {
+  width: 14px;
+  height: 14px;
+  position: absolute;
+  pointer-events: none;
+  right: 7px;
+  top: 13px;
+  background: url("../images/caret-down.png") no-repeat;
+  z-index: 100
+}
+
+.index-search-form {
+  margin-top: 1em;
+  input[type="submit"] {
+    background: @suse-new-brand-colour;
+    &:hover {
+      background: @suse-new-brand-colour-hover;
+    }
+  }
+  input[type="text"].form-control:nth-child(2),
+  .input-group-sm > .form-control, .input-group-sm > .input-group-addon, .input-group-sm > .input-group-btn > input[type="submit"] {
+    border: @suse-new-brand-colour 1px solid;
+    border-radius: 0 2px 2px 0;
+  }
+  input[type="text"].form-control:nth-child(2) {
+    border-radius: 2px 0 0 2px;
+    border: @suse-new-brand-colour 1px solid;
+  }
+}

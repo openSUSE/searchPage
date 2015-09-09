@@ -8343,7 +8343,7 @@ html {
   height: 100%;
 }
 header {
-  height: 30px;
+  height: 50px;
   display: block;
 }
 section {
@@ -8361,7 +8361,7 @@ footer a {
   font-size: 13px;
 }
 ul.horizontal-list-no-list-style {
-  padding: 1em 0 0;
+  padding: 1.6em 0 0;
   margin: 0;
 }
 ul.horizontal-list-no-list-style li {
@@ -8393,6 +8393,18 @@ ul.horizontal-list-no-list-style li a {
 }
 .select-translation {
   padding-top: 1em;
+  text-align: right;
+}
+.select-translation h6,
+.select-translation .dropup {
+  display: inline-block;
+}
+.select-translation h6 {
+  padding-right: 1em;
+}
+.select-translation .dropup .dropdown-menu {
+  right: 0;
+  left: auto !important;
 }
 select {
   -webkit-appearance: none;
@@ -8411,7 +8423,7 @@ footer .input-group select.form-control:not(:first-child):not(:last-child) {
   pointer-events: none;
   right: 7px;
   top: 13px;
-  background: url("../images/caret-down.png") no-repeat;
+  background: url("../../assets/images/caret-down.png") no-repeat;
   z-index: 100;
 }
 .index-search-form {
@@ -8424,9 +8436,9 @@ footer .input-group select.form-control:not(:first-child):not(:last-child) {
   background: #007f4a;
 }
 .index-search-form input[type="text"].form-control:nth-child(2),
-.index-search-form .input-group-sm > .form-control,
-.index-search-form .input-group-sm > .input-group-addon,
-.index-search-form .input-group-sm > .input-group-btn > input[type="submit"] {
+.index-search-form .input-group > .form-control,
+.index-search-form .input-group > .input-group-addon,
+.index-search-form .input-group > .input-group-btn > input[type="submit"] {
   border: #00b268 1px solid;
   border-radius: 0 2px 2px 0;
 }
@@ -8455,44 +8467,44 @@ footer h6 {
   }
 }
 footer .suse-logo {
-  background: url("../images/suse-logo.png") no-repeat 0 0;
+  background: url("../../assets/images/suse-logo.png") no-repeat 0 0;
   width: 39px;
   height: 20px;
 }
 footer .suse-logo:hover {
-  background: url("../images/suse-logo.png") no-repeat 0 -21px;
+  background: url("../../assets/images/suse-logo.png") no-repeat 0 -21px;
 }
 footer .AMD-logo {
-  background: url("../images/AMD.png") no-repeat 0 0;
+  background: url("../../assets/images/AMD.png") no-repeat 0 0;
   width: 52px;
   height: 14px;
 }
 footer .AMD-logo:hover {
-  background: url("../images/AMD.png") no-repeat 0 -13px;
+  background: url("../../assets/images/AMD.png") no-repeat 0 -13px;
 }
 footer .heinlein-logo {
-  background: url("../images/heinlein.png") no-repeat 0 0;
+  background: url("../../assets/images/heinlein.png") no-repeat 0 0;
   width: 51px;
   height: 16px;
 }
 footer .heinlein-logo:hover {
-  background: url("../images/heinlein.png") no-repeat 0 -15px;
+  background: url("../../assets/images/heinlein.png") no-repeat 0 -15px;
 }
 footer .ip-exchange-logo {
-  background: url("../images/ip-exchange.png") no-repeat 0 0;
+  background: url("../../assets/images/ip-exchange.png") no-repeat 0 0;
   width: 27px;
   height: 25px;
 }
 footer .ip-exchange-logo:hover {
-  background: url("../images/ip-exchange.png") no-repeat 0 -24px;
+  background: url("../../assets/images/ip-exchange.png") no-repeat 0 -24px;
 }
 footer .B1-systems-logo {
-  background: url("../images/B1-systems.png") no-repeat 0 0;
+  background: url("../../assets/images/B1-systems.png") no-repeat 0 0;
   width: 23px;
   height: 22px;
 }
 footer .B1-systems-logo:hover {
-  background: url("../images/B1-systems.png") no-repeat 0 -21px;
+  background: url("../../assets/images/B1-systems.png") no-repeat 0 -21px;
 }
 video {
   width: 100%;

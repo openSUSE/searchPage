@@ -16,7 +16,7 @@ gulp.task('customeScripts', function() {
                    assets + 'js/modernizr.js',
                    assets + 'js/jquery-cookie.js',
                    assets + 'js/jquery-lang.js',
-                   assets + 'js/OpenSUSE-search-layout.js'])
+                   assets + 'js/openSUSE-search-layout.js'])
     .pipe(concat('main.js'))
     .pipe(rename({suffix: '.min'}))
     .pipe(uglify())

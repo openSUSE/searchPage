@@ -66,7 +66,7 @@ Dir.mktmpdir do |localedir|
       translation = gettext(string)
       translations[string] = gettext(string) if string != translation
     end
-    next if translations.empty?
+    next if translations.count < 2
     hash = {}
     hash['WARNING'] = 'Please see the README.md - this is generated'
     hash['token'] = translations

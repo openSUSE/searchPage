@@ -1,14 +1,14 @@
 {
-    "token": {
-        "Blogs": "Bloggar",
-        "Build Service": "Byggjeteneste",
-        "Change language": "Byt språk",
-        "Forums": "Forum",
-        "Get software": "Last ned",
-        "News": "Nyheiter",
-        "Press": "Presse",
-        "Shop": "Butikk",
-        "Social Network": "Sosiale nettverk",
-        "Wiki": "Wiki"
-    }
+  "WARNING": "Please see the README.md - this is generated",
+  "token": {
+    "Blogs": "Bloggar",
+    "Build Service": "Byggjeteneste",
+    "Change language": "Byt språk",
+    "Forums": "Forum",
+    "Get software": "Last ned",
+    "News": "Nyheiter",
+    "Press": "Presse",
+    "Shop": "Butikk",
+    "Social Network": "Sosiale nettverk"
+  }
 }

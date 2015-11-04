@@ -1,14 +1,12 @@
 {
-    "token": {
-        "Blogs": "Blogs",
-        "Build Service": "Build-service",
-        "Change language": "Taal wijzigen",
-        "Forums": "Forums",
-        "Get software": "Haal software op",
-        "News": "Nieuws",
-        "Press": "Pers",
-        "Shop": "Winkel",
-        "Social Network": "Sociaal netwerk",
-        "Wiki": "Wiki"
-    }
+  "WARNING": "Please see the README.md - this is generated",
+  "token": {
+    "Build Service": "Build-service",
+    "Change language": "Taal wijzigen",
+    "Get software": "Haal software op",
+    "News": "Nieuws",
+    "Press": "Pers",
+    "Shop": "Winkel",
+    "Social Network": "Sociaal netwerk"
+  }
 }

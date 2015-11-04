@@ -1,14 +1,13 @@
 {
+  "WARNING": "Please see the README.md - this is generated",
   "token": {
-    "Get software": "Obtingueu programari",
-    "Wiki": "Wiki",
     "Build Service": "Servei de construcció",
-    "Press": "Premsa",
-    "Shop": "Botiga",
-    "Social Network": "Xarxa social",
     "Change language": "Canvieu la llengua",
     "Forums": "Fòrums",
+    "Get software": "Obtingueu programari",
     "News": "Notícies",
-    "Blogs": "Blogs"
+    "Press": "Premsa",
+    "Shop": "Botiga",
+    "Social Network": "Xarxa social"
   }
 }

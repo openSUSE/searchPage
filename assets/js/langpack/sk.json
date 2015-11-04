@@ -1,14 +1,13 @@
 {
-    "token": {
-        "Blogs": "Blogy",
-        "Build Service": "Build Service",
-        "Change language": "Zmeniť jazyk",
-        "Forums": "Fóra",
-        "Get software": "Získať softvér",
-        "News": "Správy",
-        "Press": "Tlač",
-        "Shop": "Obchod",
-        "Social Network": "Sociálna sieť",
-        "Wiki": "Wiki"
-    }
+  "WARNING": "Please see the README.md - this is generated",
+  "token": {
+    "Blogs": "Blogy",
+    "Change language": "Zmeniť jazyk",
+    "Forums": "Fóra",
+    "Get software": "Získať softvér",
+    "News": "Správy",
+    "Press": "Tlač",
+    "Shop": "Obchod",
+    "Social Network": "Sociálna sieť"
+  }
 }

@@ -1,14 +1,12 @@
 {
+  "WARNING": "Please see the README.md - this is generated",
   "token": {
-    "Blogs": "Blogs",
     "Build Service": "Υπηρεσία Κατασκευής",
     "Change language": "Επιλογή γλώσσας",
-    "Forums": "Forums",
     "Get software": "Λήψη λογισμικού",
     "News": "Νέα",
     "Press": "Τύπος",
     "Shop": "Κατάστημα",
-    "Social Network": "Κοινωνικά Δίκτυα",
-    "Wiki": "Wiki"
+    "Social Network": "Κοινωνικά Δίκτυα"
   }
 }

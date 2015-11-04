@@ -2,14 +2,15 @@
   "WARNING": "Please see the README.md - this is generated",
   "token": {
     "Change language": "Changer la langue",
-    "Get software": "Téléchargez des logiciels",
+    "Get software": "Télécharger des logiciels",
     "Loading Page": "Chargement de la page",
     "News": "Nouvelles",
     "Powered by": "Propulsé par",
     "Press": "Presse",
+    "Search with Google": "Chercher avec Google",
     "Shop": "Boutique",
     "Social Network": "Réseau social",
-    "What are you searching for?": "Que recherchez-vous ?",
+    "What are you searching for?": "Que recherchez-vous ?",
     "openSUSE search": "Recherche openSUSE"
   }
 }

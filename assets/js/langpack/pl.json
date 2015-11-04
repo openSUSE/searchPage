@@ -1,34 +1,13 @@
 {
+  "WARNING": "Please see the README.md - this is generated",
   "token": {
-
-    "News":
-    "Wiadomości",
-
-    "Get software":
-    "Pobierz oprogramowanie",
-
-    "Wiki":
-    "Wiki",
-
-    "Build Service":
-    "Build Service",
-
-    "Social Network":
-    "Sieć społecznościowa",
-
-    "Forums":
-    "Fora",
-
-    "Shop":
-    "Sklep",
-
-    "Blogs":
-    "Blogi",
-
-    "Press":
-    "Prasa",
-
-    "Change language":
-    "Zmień język"
+    "Blogs": "Blogi",
+    "Change language": "Zmień język",
+    "Forums": "Fora",
+    "Get software": "Pobierz oprogramowanie",
+    "News": "Wiadomości",
+    "Press": "Prasa",
+    "Shop": "Sklep",
+    "Social Network": "Sieć społecznościowa"
   }
 }

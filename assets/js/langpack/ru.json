@@ -1,34 +1,14 @@
 {
+  "WARNING": "Please see the README.md - this is generated",
   "token": {
-
-    "News":
-    "Новости",
-
-    "Get software":
-    "Получить программное обеспечение",
-
-    "Wiki":
-    "Вики",
-
-    "Build Service":
-    "Build Service",
-
-    "Social Network":
-    "Социальная сеть",
-
-    "Forums":
-    "Форумы",
-
-    "Shop":
-    "Магазин",
-
-    "Blogs":
-    "Блоги",
-
-    "Press":
-    "Пресса",
-
-    "Change language":
-    "Изменить язык"
+    "Blogs": "Блоги",
+    "Change language": "Изменить язык",
+    "Forums": "Форумы",
+    "Get software": "Получить программное обеспечение",
+    "News": "Новости",
+    "Press": "Пресса",
+    "Shop": "Магазин",
+    "Social Network": "Социальная сеть",
+    "Wiki": "Вики"
   }
 }

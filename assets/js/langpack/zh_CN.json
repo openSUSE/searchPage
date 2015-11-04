@@ -1,34 +1,15 @@
-﻿{
+{
+  "WARNING": "Please see the README.md - this is generated",
   "token": {
-
-    "News":
-    "新闻",
-
-    "Get software":
-    "获取软体",
-
-    "Wiki":
-    "维基",
-
-    "Build Service":
-    "建制软体包",
-
-    "Social Network":
-    "社交网络",
-
-    "Forums":
-    "论坛",
-
-    "Shop":
-    "商店",
-
-    "Blogs":
-    "部落格",
-
-    "Press":
-    "媒体合作",
-
-    "Change language":
-    "选择语言"
+    "Blogs": "部落格",
+    "Build Service": "建制软体包",
+    "Change language": "选择语言",
+    "Forums": "论坛",
+    "Get software": "获取软体",
+    "News": "新闻",
+    "Press": "媒体合作",
+    "Shop": "商店",
+    "Social Network": "社交网络",
+    "Wiki": "维基"
   }
 }

@@ -3,9 +3,13 @@
   "token": {
     "Change language": "Changer la langue",
     "Get software": "Téléchargez des logiciels",
+    "Loading Page": "Chargement de la page",
     "News": "Nouvelles",
+    "Powered by": "Propulsé par",
     "Press": "Presse",
     "Shop": "Boutique",
-    "Social Network": "Réseau social"
+    "Social Network": "Réseau social",
+    "What are you searching for?": "Que recherchez-vous ?",
+    "openSUSE search": "Recherche openSUSE"
   }
 }

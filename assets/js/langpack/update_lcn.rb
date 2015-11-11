@@ -19,6 +19,7 @@ msgstr ""
 "MIME-Version: 1.0\\n"
 "Content-Type: text/plain; charset=UTF-8\\n"
 "Content-Transfer-Encoding: 8bit\\n"
+
 END
 
 page = Nokogiri::HTML(open("index.html"))   
@@ -28,7 +29,9 @@ page.xpath('//*[@lang="en"]').each do |t|
   next if t.name == 'html'
   text = t.text
   if text.empty?
-    text = t.attribute('placeholder').to_s || t.attribute('value').to_s
+    text = t.attribute('placeholder').to_s
+    text = t.attribute('value').to_s if text.empty?
+    next if text.empty?
   end
   strings[text] ||= []
   strings[text].push(t.line)
@@ -52,7 +55,7 @@ Dir.mktmpdir do |localedir|
     
   Dir.glob("#{lcndir}/*/po/opensuse-search-page.*.po").sort.each do |po|
     language = %r(.*/([^/]*)/po).match(po)[1]
-    system("msgmerge -U #{po} #{lcndir}/50-pot/opensuse-search-page.pot")
+    system("msgmerge -q -U #{po} #{lcndir}/50-pot/opensuse-search-page.pot")
     domain = "#{language}_landing"
     mofile="#{localedir}/#{language}/LC_MESSAGES/#{domain}.mo"
     GetText.locale = language

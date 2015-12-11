@@ -1,3 +1,5 @@
+#!/usr/bin/ruby
+
 require 'rubygems'
 require 'nokogiri'   
 require 'json'

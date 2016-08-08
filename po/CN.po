@@ -1,0 +1,76 @@
+# marguerite <marguerite@opensuse.org>, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-04 07:24:22 +0100\n"
+"PO-Revision-Date: 2015-11-06 19:21+0800\n"
+"Last-Translator: marguerite <marguerite@opensuse.org>\n"
+"Language-Team: Chinese <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 2.0\n"
+
+#: index.html:0
+msgid "Loading Page"
+msgstr "正在加载页面"
+
+#: index.html:4
+msgid "openSUSE search"
+msgstr "openSUSE 搜索"
+
+#: index.html:27
+msgid "Get software"
+msgstr "获取软件"
+
+#: index.html:30
+msgid "Wiki"
+msgstr "百科"
+
+#: index.html:33
+msgid "Build Service"
+msgstr "包构建服务"
+
+#: index.html:44
+msgid "What are you searching for?"
+msgstr "您想要找点什么？"
+
+#: index.html:46
+msgid "Search with Google"
+msgstr "使用 Google 搜索"
+
+#: index.html:51
+msgid "Powered by"
+msgstr "强力驱动"
+
+#: index.html:93
+msgid "Social Network"
+msgstr "社交网络"
+
+#: index.html:96
+msgid "News"
+msgstr "新闻"
+
+#: index.html:99
+msgid "Forums"
+msgstr "论坛"
+
+#: index.html:102
+msgid "Shop"
+msgstr "商店"
+
+#: index.html:105
+msgid "Blogs"
+msgstr "部落格"
+
+#: index.html:108
+msgid "Press"
+msgstr "媒体合作"
+
+#: index.html:114
+msgid "Change language"
+msgstr "选择语言"
+

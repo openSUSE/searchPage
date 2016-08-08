@@ -1,0 +1,76 @@
+# translation of opensuse-search-page.po to Japanese
+# Yasuhiko Kamata <belphegor@belbel.or.jp>, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: opensuse-search-page\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-04 07:24:22 +0100\n"
+"PO-Revision-Date: 2015-11-05 07:29+0900\n"
+"Last-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\n"
+"Language-Team: Japanese <opensuse-ja@opensuse.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+
+#: index.html:0
+msgid "Loading Page"
+msgstr "ページを読み込んでいます"
+
+#: index.html:4
+msgid "openSUSE search"
+msgstr "openSUSE 検索"
+
+#: index.html:27
+msgid "Get software"
+msgstr "ソフトウエアの取得"
+
+#: index.html:30
+msgid "Wiki"
+msgstr "Wiki"
+
+#: index.html:33
+msgid "Build Service"
+msgstr "Build Service"
+
+#: index.html:44
+msgid "What are you searching for?"
+msgstr "何をお探しですか？"
+
+#: index.html:46
+msgid "Search with Google"
+msgstr "Google で検索"
+
+#: index.html:51
+msgid "Powered by"
+msgstr "スポンサー"
+
+#: index.html:93
+msgid "Social Network"
+msgstr "ソーシャルネットワーク"
+
+#: index.html:96
+msgid "News"
+msgstr "ニュース"
+
+#: index.html:99
+msgid "Forums"
+msgstr "フォーラム"
+
+#: index.html:102
+msgid "Shop"
+msgstr "ショップ"
+
+#: index.html:105
+msgid "Blogs"
+msgstr "ブログ"
+
+#: index.html:108
+msgid "Press"
+msgstr "プレスリリース"
+
+#: index.html:114
+msgid "Change language"
+msgstr "言語の変更"
+

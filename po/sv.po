@@ -1,0 +1,76 @@
+# Jonas Svensson <jks@ekhorva.se>, 2016.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-04 07:24:22 +0100\n"
+"PO-Revision-Date: 2016-01-22 10:43+0100\n"
+"Last-Translator: Jonas Svensson <jks@ekhorva.se>\n"
+"Language-Team: Swedish <kde-i18n-doc@kde.org>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 2.0\n"
+
+#: index.html:0
+msgid "Loading Page"
+msgstr "Laddar sida"
+
+#: index.html:4
+msgid "openSUSE search"
+msgstr "openSUSE sökning"
+
+#: index.html:27
+msgid "Get software"
+msgstr "Ladda hem program"
+
+#: index.html:30
+msgid "Wiki"
+msgstr "Wiki"
+
+#: index.html:33
+msgid "Build Service"
+msgstr "Byggtjänst"
+
+#: index.html:44
+msgid "What are you searching for?"
+msgstr "Vad söker du?"
+
+#: index.html:46
+msgid "Search with Google"
+msgstr "Sök med Google"
+
+#: index.html:51
+msgid "Powered by"
+msgstr "Drivs med"
+
+#: index.html:93
+msgid "Social Network"
+msgstr "Sociala nätverk"
+
+#: index.html:96
+msgid "News"
+msgstr "Nyheter"
+
+#: index.html:99
+msgid "Forums"
+msgstr "Forum"
+
+#: index.html:102
+msgid "Shop"
+msgstr "Handla"
+
+#: index.html:105
+msgid "Blogs"
+msgstr "Bloggar"
+
+#: index.html:108
+msgid "Press"
+msgstr "Nyheter"
+
+#: index.html:114
+msgid "Change language"
+msgstr "Byt språk"
+

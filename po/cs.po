@@ -1,0 +1,76 @@
+# Vojtěch Zeisek <vojtech.zeisek@opensuse.org>, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-04 07:24:22 +0100\n"
+"PO-Revision-Date: 2015-11-05 14:34+0100\n"
+"Last-Translator: Vojtěch Zeisek <vojtech.zeisek@opensuse.org>\n"
+"Language-Team: Czech <opensuse-cz@opensuse.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: index.html:0
+msgid "Loading Page"
+msgstr "Nahrávání stránky"
+
+#: index.html:4
+msgid "openSUSE search"
+msgstr "Vyhledávání openSUSE"
+
+#: index.html:27
+msgid "Get software"
+msgstr "Získat software"
+
+#: index.html:30
+msgid "Wiki"
+msgstr "Wiki"
+
+#: index.html:33
+msgid "Build Service"
+msgstr "Build Service"
+
+#: index.html:44
+msgid "What are you searching for?"
+msgstr "Co hledáte?"
+
+#: index.html:46
+msgid "Search with Google"
+msgstr "Hledat Googlem?"
+
+#: index.html:51
+msgid "Powered by"
+msgstr "Poháněno"
+
+#: index.html:93
+msgid "Social Network"
+msgstr "Sociální síť"
+
+#: index.html:96
+msgid "News"
+msgstr "Novinky"
+
+#: index.html:99
+msgid "Forums"
+msgstr "Fóra"
+
+#: index.html:102
+msgid "Shop"
+msgstr "Obchod"
+
+#: index.html:105
+msgid "Blogs"
+msgstr "Blogy"
+
+#: index.html:108
+msgid "Press"
+msgstr "Pro novináře"
+
+#: index.html:114
+msgid "Change language"
+msgstr "Změnit jazyk"
+

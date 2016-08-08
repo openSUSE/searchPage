@@ -1,0 +1,76 @@
+# Luiz Fernando Ranghetti <elchevive68@gmail.com>, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-04 07:24:22 +0100\n"
+"PO-Revision-Date: 2015-11-05 09:01UTC-0300\n"
+"Last-Translator: Luiz Fernando Ranghetti <elchevive68@gmail.com>\n"
+"Language-Team: Portuguese <opensuse-pt@opensuse.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 2.0\n"
+
+#: index.html:0
+msgid "Loading Page"
+msgstr "Carregando página"
+
+#: index.html:4
+msgid "openSUSE search"
+msgstr "Pesquisa do openSUSE"
+
+#: index.html:27
+msgid "Get software"
+msgstr "Baixar software"
+
+#: index.html:30
+msgid "Wiki"
+msgstr "Wiki"
+
+#: index.html:33
+msgid "Build Service"
+msgstr "Build Service"
+
+#: index.html:44
+msgid "What are you searching for?"
+msgstr "O que você está procurando?"
+
+#: index.html:46
+msgid "Search with Google"
+msgstr "Pesquisar com o Google"
+
+#: index.html:51
+msgid "Powered by"
+msgstr "Patrocinado por"
+
+#: index.html:93
+msgid "Social Network"
+msgstr "Redes sociais"
+
+#: index.html:96
+msgid "News"
+msgstr "Notícias"
+
+#: index.html:99
+msgid "Forums"
+msgstr "Fóruns"
+
+#: index.html:102
+msgid "Shop"
+msgstr "Loja"
+
+#: index.html:105
+msgid "Blogs"
+msgstr "Blogs"
+
+#: index.html:108
+msgid "Press"
+msgstr "Imprensa"
+
+#: index.html:114
+msgid "Change language"
+msgstr "Alterar idioma"
+

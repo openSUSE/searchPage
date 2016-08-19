@@ -44,5 +44,11 @@ gulp.task('watch', function() {
   gulp.watch(assets + 'css/*.less', ['less']);
  });
 
+var serverCommand = 'python -m SimpleHTTPServer';
+var shell = require('gulp-shell');
+gulp.task('runServer', shell.task([
+  serverCommand
+]))
+
 // Default Task
-gulp.task('default', ['customeScripts','less', 'watch']);
+gulp.task('default', ['customeScripts','less', 'watch', 'runServer' ]);

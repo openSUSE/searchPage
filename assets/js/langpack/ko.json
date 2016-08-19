@@ -1,0 +1,19 @@
+{
+  "WARNING": "Please see the README.md - this is generated",
+  "token": {
+    "Blogs": "블로그",
+    "Build Service": "빌드 서비스",
+    "Change language": "언어 변경",
+    "Forums": "포럼",
+    "Get software": "소프트웨어 다운로드",
+    "News": "뉴스",
+    "Powered by": "제공",
+    "Press": "기사 투고",
+    "Search with Google": "구글로 검색",
+    "Shop": "쇼핑",
+    "Social Network": "소셜 네트워크",
+    "What are you searching for?": "무엇을 찾고 계세요?",
+    "Wiki": "위키",
+    "openSUSE search": "오픈수세 검색"
+  }
+}

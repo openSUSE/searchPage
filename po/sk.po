@@ -1,0 +1,77 @@
+# Ferdinand Galko <galko.ferdinand@gmail.com>, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-04 07:24:22 +0100\n"
+"PO-Revision-Date: 2015-11-04 20:36+0100\n"
+"Last-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\n"
+"Language-Team: Slovak <opensuse-translation-sk@opensuse.org>\n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: index.html:0
+msgid "Loading Page"
+msgstr "Načítavanie strany"
+
+#: index.html:4
+msgid "openSUSE search"
+msgstr "openSUSE hľadanie"
+
+#: index.html:27
+msgid "Get software"
+msgstr "Získať softvér"
+
+#: index.html:30
+msgid "Wiki"
+msgstr "Wiki"
+
+#: index.html:33
+msgid "Build Service"
+msgstr "Build Service"
+
+#: index.html:44
+msgid "What are you searching for?"
+msgstr "Čo hľadáte?"
+
+#: index.html:46
+msgid "Search with Google"
+msgstr "Hľadať s Google"
+
+#: index.html:51
+msgid "Powered by"
+msgstr "Spracované s"
+
+#: index.html:93
+msgid "Social Network"
+msgstr "Sociálna sieť"
+
+#: index.html:96
+msgid "News"
+msgstr "Správy"
+
+#: index.html:99
+msgid "Forums"
+msgstr "Fóra"
+
+#: index.html:102
+msgid "Shop"
+msgstr "Obchod"
+
+#: index.html:105
+msgid "Blogs"
+msgstr "Blogy"
+
+#: index.html:108
+msgid "Press"
+msgstr "Tlač"
+
+#: index.html:114
+msgid "Change language"
+msgstr "Zmeniť jazyk"
+
+

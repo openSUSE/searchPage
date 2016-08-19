@@ -1,0 +1,75 @@
+# Max Lin <mlin@suse.com>, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: opensuse-landing-page\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-04 07:45:58 +0100\n"
+"PO-Revision-Date: 2015-11-04 19:29+0800\n"
+"Last-Translator: Max Lin <mlin@suse.com>\n"
+"Language-Team: Chinese Traditional <opensuse-translation@opensuse.org>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 2.0\n"
+
+#: index.html:0
+msgid "Loading Page"
+msgstr "讀取頁面中"
+
+#: index.html:4
+msgid "openSUSE search"
+msgstr "openSUSE 搜尋"
+
+#: index.html:27
+msgid "Get software"
+msgstr "取得軟體"
+
+#: index.html:30
+msgid "Wiki"
+msgstr "維基"
+
+#: index.html:33
+msgid "Build Service"
+msgstr "Build Service"
+
+#: index.html:44
+msgid "What are you searching for?"
+msgstr "您要搜尋什麼？"
+
+#: index.html:46
+msgid "Search with Google"
+msgstr "從 Google 搜尋"
+
+#: index.html:51
+msgid "Powered by"
+msgstr ""
+
+#: index.html:93
+msgid "Social Network"
+msgstr "社群網路"
+
+#: index.html:96
+msgid "News"
+msgstr "新聞"
+
+#: index.html:99
+msgid "Forums"
+msgstr "論壇"
+
+#: index.html:102
+msgid "Shop"
+msgstr "商店"
+
+#: index.html:105
+msgid "Blogs"
+msgstr "部落格"
+
+#: index.html:108
+msgid "Press"
+msgstr "媒體"
+
+#: index.html:114
+msgid "Change language"
+msgstr "變更語系"

@@ -3,70 +3,73 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-11-04 07:45:58 +0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2016-09-22 23:17+0000\n"
+"Last-Translator: Enol P <enolp@softastur.org>\n"
+"Language-Team: Asturian "
+"<https://l10n.opensuse.org/projects/searchpage/master/ast/>\n"
 "Language: ast\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.6\n"
 
 #: index.html:0
 msgid "Loading Page"
-msgstr ""
+msgstr "Cargando páxina"
 
 #: index.html:4
 msgid "openSUSE search"
-msgstr ""
+msgstr "Gueta d'openSUSe"
 
 #: index.html:27
 msgid "Get software"
-msgstr ""
+msgstr "Consiguir software"
 
 #: index.html:30
 msgid "Wiki"
-msgstr ""
+msgstr "Wiki"
 
 #: index.html:33
 msgid "Build Service"
-msgstr ""
+msgstr "Serviciu de construcción"
 
 #: index.html:44
 msgid "What are you searching for?"
-msgstr ""
+msgstr "¿Qué tas guetando?"
 
 #: index.html:46
 msgid "Search with Google"
-msgstr ""
+msgstr "Guetar con Google"
 
 #: index.html:51
 msgid "Powered by"
-msgstr ""
+msgstr "Cola potencia de"
 
 #: index.html:93
 msgid "Social Network"
-msgstr ""
+msgstr "Rede social"
 
 #: index.html:96
 msgid "News"
-msgstr ""
+msgstr "Anuncies"
 
 #: index.html:99
 msgid "Forums"
-msgstr ""
+msgstr "Foros"
 
 #: index.html:102
 msgid "Shop"
-msgstr ""
+msgstr "Tienda"
 
 #: index.html:105
 msgid "Blogs"
-msgstr ""
+msgstr "Blogues"
 
 #: index.html:108
 msgid "Press"
-msgstr ""
+msgstr "Prensa"
 
 #: index.html:114
 msgid "Change language"
-msgstr ""
+msgstr "Camudar llingua"

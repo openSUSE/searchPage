@@ -20,7 +20,7 @@ msgstr "Cargando páxina"
 
 #: index.html:4
 msgid "openSUSE search"
-msgstr "Gueta d'openSUSe"
+msgstr "Gueta d'openSUSE"
 
 #: index.html:27
 msgid "Get software"

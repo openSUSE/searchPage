@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-11-04 07:24:22 +0100\n"
-"PO-Revision-Date: 2016-10-07 03:09+0000\n"
+"PO-Revision-Date: 2016-10-07 07:42+0000\n"
 "Last-Translator: Dendy Putra Delly <delly.dendy@gmail.com>\n"
 "Language-Team: Indonesian "
 "<https://l10n.opensuse.org/projects/searchpage/master/id/>\n"
@@ -31,7 +31,6 @@ msgid "Wiki"
 msgstr "Wiki"
 
 #: index.html:33
-#, fuzzy
 msgid "Build Service"
 msgstr "Membangun Layanan"
 
@@ -44,7 +43,6 @@ msgid "Search with Google"
 msgstr "Pencarian dengan Google"
 
 #: index.html:51
-#, fuzzy
 msgid "Powered by"
 msgstr "Dipersembahkan oleh"
 
@@ -69,7 +67,6 @@ msgid "Blogs"
 msgstr "Blog"
 
 #: index.html:108
-#, fuzzy
 msgid "Press"
 msgstr "Pers"
 

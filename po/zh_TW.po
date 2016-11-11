@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: opensuse-landing-page\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-11-04 07:45:58 +0100\n"
+"POT-Creation-Date: 2016-11-11 10:49:26 +0100\n"
 "PO-Revision-Date: 2015-11-04 19:29+0800\n"
 "Last-Translator: Max Lin <mlin@suse.com>\n"
 "Language-Team: Chinese Traditional <opensuse-translation@opensuse.org>\n"
@@ -13,10 +13,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Lokalize 2.0\n"
-
-#: index.html:0
-msgid "Loading Page"
-msgstr "讀取頁面中"
 
 #: index.html:4
 msgid "openSUSE search"
@@ -73,3 +69,6 @@ msgstr "媒體"
 #: index.html:114
 msgid "Change language"
 msgstr "變更語系"
+
+#~ msgid "Loading Page"
+#~ msgstr "讀取頁面中"

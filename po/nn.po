@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-11-04 07:45:58 +0100\n"
+"POT-Creation-Date: 2016-11-11 10:49:26 +0100\n"
 "PO-Revision-Date: 2015-11-16 20:17+0100\n"
 "Last-Translator: Karl Ove Hufthammer <karl@huftis.org>\n"
 "Language-Team: NorwegianNynorsk <i18n-nn@lister.ping.uio.no>\n"
@@ -13,10 +13,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Lokalize 2.0\n"
-
-#: index.html:0
-msgid "Loading Page"
-msgstr "Lastar side"
 
 #: index.html:4
 msgid "openSUSE search"
@@ -73,3 +69,6 @@ msgstr "Presse"
 #: index.html:114
 msgid "Change language"
 msgstr "Byt språk"
+
+#~ msgid "Loading Page"
+#~ msgstr "Lastar side"

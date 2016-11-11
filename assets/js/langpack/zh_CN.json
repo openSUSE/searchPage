@@ -2,14 +2,18 @@
   "WARNING": "Please see the README.md - this is generated",
   "token": {
     "Blogs": "部落格",
-    "Build Service": "建制软体包",
+    "Build Service": "包构建服务",
     "Change language": "选择语言",
     "Forums": "论坛",
-    "Get software": "获取软体",
+    "Get software": "获取软件",
     "News": "新闻",
+    "Powered by": "强力驱动",
     "Press": "媒体合作",
+    "Search with Google": "使用 Google 搜索",
     "Shop": "商店",
     "Social Network": "社交网络",
-    "Wiki": "维基"
+    "What are you searching for?": "您想要找点什么？",
+    "Wiki": "百科",
+    "openSUSE search": "openSUSE 搜索"
   }
 }

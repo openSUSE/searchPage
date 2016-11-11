@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-11-04 07:24:22 +0100\n"
+"POT-Creation-Date: 2016-11-11 10:49:26 +0100\n"
 "PO-Revision-Date: 2016-02-26 17:11+0200\n"
 "Last-Translator: Borislav Mitev <morbid_viper@tkzs.org>\n"
 "Language-Team: Bulgarian <opensuse-translation@opensuse.org>\n"
@@ -14,10 +14,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Lokalize 2.0\n"
-
-#: index.html:0
-msgid "Loading Page"
-msgstr "Зареждане на страница"
 
 #: index.html:4
 msgid "openSUSE search"
@@ -75,4 +71,5 @@ msgstr "Преса"
 msgid "Change language"
 msgstr "Смяна на език"
 
-
+#~ msgid "Loading Page"
+#~ msgstr "Зареждане на страница"

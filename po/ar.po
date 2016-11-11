@@ -2,11 +2,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-11-04 07:24:22 +0100\n"
+"POT-Creation-Date: 2016-11-11 10:49:26 +0100\n"
 "PO-Revision-Date: 2016-10-27 07:08+0000\n"
 "Last-Translator: mohammad alhargan <malham1@gmail.com>\n"
-"Language-Team: Arabic "
-"<https://l10n.opensuse.org/projects/searchpage/master/ar/>\n"
+"Language-Team: Arabic <https://l10n.opensuse.org/projects/searchpage/master/"
+"ar/>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -14,10 +14,6 @@ msgstr ""
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
 "X-Generator: Weblate 2.6\n"
-
-#: index.html:0
-msgid "Loading Page"
-msgstr "تحميل الصفحة"
 
 #: index.html:4
 msgid "openSUSE search"
@@ -74,3 +70,6 @@ msgstr "صحافة"
 #: index.html:114
 msgid "Change language"
 msgstr "تغيير اللغة"
+
+#~ msgid "Loading Page"
+#~ msgstr "تحميل الصفحة"

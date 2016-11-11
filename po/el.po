@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-11-04 07:24:22 +0100\n"
+"POT-Creation-Date: 2016-11-11 10:49:26 +0100\n"
 "PO-Revision-Date: 2015-11-18 20:16+0200\n"
 "Last-Translator: Efstathios Iosifidis <iosifidis@opensuse.org>\n"
 "Language-Team: Ελληνικά <opensuse-translation-el@opensuse.org>\n"
@@ -15,10 +15,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Gtranslator 2.91.7\n"
-
-#: index.html:0
-msgid "Loading Page"
-msgstr "Φόρτωση σελίδας"
 
 #: index.html:4
 msgid "openSUSE search"
@@ -75,3 +71,6 @@ msgstr "Τύπος"
 #: index.html:114
 msgid "Change language"
 msgstr "Επιλογή γλώσσας"
+
+#~ msgid "Loading Page"
+#~ msgstr "Φόρτωση σελίδας"

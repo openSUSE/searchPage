@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-11-04 07:24:22 +0100\n"
+"POT-Creation-Date: 2016-11-11 10:49:26 +0100\n"
 "PO-Revision-Date: 2015-11-04 12:35+0100\n"
 "Last-Translator: Martin Schlander <mschlander@opensuse.org>\n"
 "Language-Team: Danish <opensuse-translation@opensuse.org>\n"
@@ -13,10 +13,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Lokalize 1.5\n"
-
-#: index.html:0
-msgid "Loading Page"
-msgstr "Indlæser side"
 
 #: index.html:4
 msgid "openSUSE search"
@@ -75,3 +71,5 @@ msgstr "Presse"
 msgid "Change language"
 msgstr "Skift sprog"
 
+#~ msgid "Loading Page"
+#~ msgstr "Indlæser side"

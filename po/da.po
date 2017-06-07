@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-11-11 10:49:26 +0100\n"
-"PO-Revision-Date: 2017-06-03 20:58+0000\n"
+"PO-Revision-Date: 2017-06-07 13:47+0000\n"
 "Last-Translator: scootergrisen Required Fields <scootergrisen@gmail.com>\n"
 "Language-Team: Danish "
 "<https://l10n.opensuse.org/projects/searchpage/master/da/>\n"
@@ -21,7 +21,7 @@ msgstr "openSUSE-søgning"
 
 #: index.html:27
 msgid "Get software"
-msgstr "Få software"
+msgstr "Hent software"
 
 #: index.html:30
 msgid "Wiki"

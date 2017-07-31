@@ -1,11 +1,12 @@
 # Martin Schlander <mschlander@opensuse.org>, 2015.
+# scootergrisen, 2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-11-11 10:49:26 +0100\n"
-"PO-Revision-Date: 2017-06-08 13:00+0000\n"
-"Last-Translator: scootergrisen <scootergrisen@gmail.com>\n"
+"PO-Revision-Date: 2017-07-31 22:24+0000\n"
+"Last-Translator: scootergrisen\n"
 "Language-Team: Danish "
 "<https://l10n.opensuse.org/projects/searchpage/master/da/>\n"
 "Language: da\n"
@@ -13,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.6\n"
+"X-Generator: Weblate 2.13.1\n"
 
 #: index.html:4
 msgid "openSUSE search"
@@ -62,7 +63,7 @@ msgstr "Butik"
 
 #: index.html:105
 msgid "Blogs"
-msgstr "Blogs"
+msgstr "Blogge"
 
 #: index.html:108
 msgid "Press"

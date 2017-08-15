@@ -1,0 +1,33 @@
+{
+  "name": "opensuse-search-page",
+  "version": "1.0.0",
+  "description": "The initial page for browsers in openSUSE",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-less": "^3.0.3",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-shell": "^0.6.3",
+    "gulp-uglify": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openSUSE/searchPage.git"
+  },
+  "keywords": [
+    "opensuse",
+    "search",
+    "page"
+  ],
+  "author": "cyntss",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/openSUSE/searchPage/issues"
+  },
+  "homepage": "https://github.com/openSUSE/searchPage#readme"
+}

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-11 10:49:26 +0100\n"
+"POT-Creation-Date: 2017-11-20 10:57:24 +0100\n"
 "PO-Revision-Date: 2015-11-16 20:17+0100\n"
 "Last-Translator: Karl Ove Hufthammer <karl@huftis.org>\n"
 "Language-Team: NorwegianNynorsk <i18n-nn@lister.ping.uio.no>\n"
@@ -42,31 +42,31 @@ msgstr "Søk med Google"
 msgid "Powered by"
 msgstr "Bygd på"
 
-#: index.html:93
+#: index.html:98
 msgid "Social Network"
 msgstr "Sosiale nettverk"
 
-#: index.html:96
+#: index.html:101
 msgid "News"
 msgstr "Nyheiter"
 
-#: index.html:99
+#: index.html:104
 msgid "Forums"
 msgstr "Forum"
 
-#: index.html:102
+#: index.html:107
 msgid "Shop"
 msgstr "Butikk"
 
-#: index.html:105
+#: index.html:110
 msgid "Blogs"
 msgstr "Bloggar"
 
-#: index.html:108
+#: index.html:113
 msgid "Press"
 msgstr "Presse"
 
-#: index.html:114
+#: index.html:119
 msgid "Change language"
 msgstr "Byt språk"
 

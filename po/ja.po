@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: opensuse-search-page\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-11 10:49:26 +0100\n"
+"POT-Creation-Date: 2017-11-20 10:57:24 +0100\n"
 "PO-Revision-Date: 2015-11-05 07:29+0900\n"
 "Last-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\n"
 "Language-Team: Japanese <opensuse-ja@opensuse.org>\n"
@@ -42,31 +42,31 @@ msgstr "Google で検索"
 msgid "Powered by"
 msgstr "スポンサー"
 
-#: index.html:93
+#: index.html:98
 msgid "Social Network"
 msgstr "ソーシャルネットワーク"
 
-#: index.html:96
+#: index.html:101
 msgid "News"
 msgstr "ニュース"
 
-#: index.html:99
+#: index.html:104
 msgid "Forums"
 msgstr "フォーラム"
 
-#: index.html:102
+#: index.html:107
 msgid "Shop"
 msgstr "ショップ"
 
-#: index.html:105
+#: index.html:110
 msgid "Blogs"
 msgstr "ブログ"
 
-#: index.html:108
+#: index.html:113
 msgid "Press"
 msgstr "プレスリリース"
 
-#: index.html:114
+#: index.html:119
 msgid "Change language"
 msgstr "言語の変更"
 

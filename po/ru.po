@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-11 10:49:26 +0100\n"
+"POT-Creation-Date: 2017-11-20 10:57:24 +0100\n"
 "PO-Revision-Date: 2015-11-05 21:07+0300\n"
 "Last-Translator: Aleksandr Melentev <minton@opensuse.org>\n"
 "Language-Team: Russian <opensuse-translation-ru@opensuse.org>\n"
@@ -43,31 +43,31 @@ msgstr "Искать в Google"
 msgid "Powered by"
 msgstr "Выполнено"
 
-#: index.html:93
+#: index.html:98
 msgid "Social Network"
 msgstr "Социальная сеть"
 
-#: index.html:96
+#: index.html:101
 msgid "News"
 msgstr "Новости"
 
-#: index.html:99
+#: index.html:104
 msgid "Forums"
 msgstr "Форумы"
 
-#: index.html:102
+#: index.html:107
 msgid "Shop"
 msgstr "Магазин"
 
-#: index.html:105
+#: index.html:110
 msgid "Blogs"
 msgstr "Блоги"
 
-#: index.html:108
+#: index.html:113
 msgid "Press"
 msgstr "Пресса"
 
-#: index.html:114
+#: index.html:119
 msgid "Change language"
 msgstr "Изменить язык"
 

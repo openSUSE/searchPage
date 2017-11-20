@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-11 10:49:26 +0100\n"
+"POT-Creation-Date: 2017-11-20 10:57:24 +0100\n"
 "PO-Revision-Date: 2015-11-05 08:15+0200\n"
 "Last-Translator: Andriy Bandura <andriykopanytsia@gmail.com>\n"
 "Language-Team: Ukrainian <www-uk-translations@gnu.org>\n"
@@ -43,31 +43,31 @@ msgstr "Пошук через Google"
 msgid "Powered by"
 msgstr "За підтримки"
 
-#: index.html:93
+#: index.html:98
 msgid "Social Network"
 msgstr "Соціальна мережа"
 
-#: index.html:96
+#: index.html:101
 msgid "News"
 msgstr "Новини"
 
-#: index.html:99
+#: index.html:104
 msgid "Forums"
 msgstr "Форуми"
 
-#: index.html:102
+#: index.html:107
 msgid "Shop"
 msgstr "Крамниця"
 
-#: index.html:105
+#: index.html:110
 msgid "Blogs"
 msgstr "Блоґи"
 
-#: index.html:108
+#: index.html:113
 msgid "Press"
 msgstr "Преса"
 
-#: index.html:114
+#: index.html:119
 msgid "Change language"
 msgstr "Змінити мову"
 

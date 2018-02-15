@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-11-20 10:57:24 +0100\n"
-"PO-Revision-Date: 2018-02-15 14:02+0000\n"
+"PO-Revision-Date: 2018-05-22 17:33+0000\n"
 "Last-Translator: Tommi Nieminen <software@legisign.org>\n"
 "Language-Team: Finnish "
 "<https://l10n.opensuse.org/projects/searchpage/master/fi/>\n"
@@ -40,7 +40,7 @@ msgstr "Etsi Googlella"
 
 #: index.html:51
 msgid "Powered by"
-msgstr ""
+msgstr "Tuen toimitti"
 
 #: index.html:98
 msgid "Social Network"

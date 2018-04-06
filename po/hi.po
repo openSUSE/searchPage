@@ -3,66 +3,69 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-11-20 10:57:24 +0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2018-04-06 14:57+0000\n"
+"Last-Translator: Anshul Panwar <caspian7pena@gmail.com>\n"
+"Language-Team: Hindi "
+"<https://l10n.opensuse.org/projects/searchpage/master/hi/>\n"
 "Language: hi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.18\n"
 
 #: index.html:4
 msgid "openSUSE search"
-msgstr ""
+msgstr "openSUSE में ढूँढें"
 
 #: index.html:27
 msgid "Get software"
-msgstr ""
+msgstr "सॉफ्टवेयर प्राप्त करें"
 
 #: index.html:30
 msgid "Wiki"
-msgstr ""
+msgstr "विकी"
 
 #: index.html:33
 msgid "Build Service"
-msgstr ""
+msgstr "निर्माण सेवा"
 
 #: index.html:44
 msgid "What are you searching for?"
-msgstr ""
+msgstr "आप क्या ढूँढ़ रहे हैं?"
 
 #: index.html:46
 msgid "Search with Google"
-msgstr ""
+msgstr "गूगल द्वारा ढूँढें"
 
 #: index.html:51
 msgid "Powered by"
-msgstr ""
+msgstr "प्रयोजनकर्ता"
 
 #: index.html:98
 msgid "Social Network"
-msgstr ""
+msgstr "सोशल नेटवर्क"
 
 #: index.html:101
 msgid "News"
-msgstr ""
+msgstr "संदेश"
 
 #: index.html:104
 msgid "Forums"
-msgstr ""
+msgstr "चर्चा मंच"
 
 #: index.html:107
 msgid "Shop"
-msgstr ""
+msgstr "दुकान"
 
 #: index.html:110
 msgid "Blogs"
-msgstr ""
+msgstr "ब्लॉग"
 
 #: index.html:113
 msgid "Press"
-msgstr ""
+msgstr "प्रेस"
 
 #: index.html:119
 msgid "Change language"
-msgstr ""
+msgstr "भाषा बदलें"

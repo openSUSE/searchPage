@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-11-20 10:57:24 +0100\n"
-"PO-Revision-Date: 2018-04-06 14:57+0000\n"
+"PO-Revision-Date: 2018-04-07 09:03+0000\n"
 "Last-Translator: Anshul Panwar <caspian7pena@gmail.com>\n"
 "Language-Team: Hindi "
 "<https://l10n.opensuse.org/projects/searchpage/master/hi/>\n"
@@ -40,7 +40,7 @@ msgstr "गूगल द्वारा ढूँढें"
 
 #: index.html:51
 msgid "Powered by"
-msgstr "प्रयोजनकर्ता"
+msgstr "प्रायोजक"
 
 #: index.html:98
 msgid "Social Network"

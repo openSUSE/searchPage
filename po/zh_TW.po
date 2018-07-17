@@ -4,16 +4,16 @@ msgstr ""
 "Project-Id-Version: opensuse-landing-page\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-11-20 10:57:24 +0100\n"
-"PO-Revision-Date: 2017-03-15 14:29+0000\n"
-"Last-Translator: Fun MR <mrfun1993@protonmail.com>\n"
-"Language-Team: Chinese (Taiwan) <https://l10n.opensuse.org/projects/"
-"searchpage/master/zh_TW/>\n"
+"PO-Revision-Date: 2018-07-17 18:01+0000\n"
+"Last-Translator: Yi-Jyun Pan <pan93412@gmail.com>\n"
+"Language-Team: Chinese (Taiwan) "
+"<https://l10n.opensuse.org/projects/searchpage/master/zh_TW/>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2.6\n"
+"X-Generator: Weblate 2.18\n"
 
 #: index.html:4
 msgid "openSUSE search"
@@ -33,7 +33,7 @@ msgstr "Build Service"
 
 #: index.html:44
 msgid "What are you searching for?"
-msgstr "您要搜尋什麼？"
+msgstr "您打算搜尋什麼？"
 
 #: index.html:46
 msgid "Search with Google"

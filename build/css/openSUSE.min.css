@@ -8515,19 +8515,19 @@ footer .core-backbone:hover {
 }
 footer .tuxedo-computers {
   background: url("../../assets/images/TUXEDO-computers.png") no-repeat 0 0;
-  width: 62px;
+  width: 85px;
   height: 23px;
 }
 footer .tuxedo-computers:hover {
-  background: url("../../assets/images/TUXEDO-computers.png") no-repeat 0 -27px;
+  background: url("../../assets/images/TUXEDO-computers.png") no-repeat 0 -24px;
 }
 footer .marvell {
   background: url("../../assets/images/marvell.png") no-repeat 0 0;
-  width: 62px;
-  height: 23px;
+  width: 86px;
+  height: 22px;
 }
 footer .marvell:hover {
-  background: url("../../assets/images/marvell.png") no-repeat 0 -27px;
+  background: url("../../assets/images/marvell.png") no-repeat 0 -22px;
 }
 video {
   width: 100%;

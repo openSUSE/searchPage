@@ -8361,7 +8361,7 @@ footer a {
   font-size: 13px;
 }
 ul.horizontal-list-no-list-style {
-  padding: 1.6em 0 0;
+  padding: 1em 0 0;
   margin: 0;
 }
 ul.horizontal-list-no-list-style li {
@@ -8392,7 +8392,6 @@ ul.horizontal-list-no-list-style li a {
   margin-left: 0;
 }
 .select-translation {
-  padding-top: 1em;
   text-align: right;
 }
 .select-translation h6,
@@ -8513,6 +8512,22 @@ footer .core-backbone {
 }
 footer .core-backbone:hover {
   background: url("../../assets/images/core-backbone.jpg") no-repeat 0 -27px;
+}
+footer .tuxedo-computers {
+  background: url("../../assets/images/TUXEDO-computers.png") no-repeat 0 0;
+  width: 62px;
+  height: 23px;
+}
+footer .tuxedo-computers:hover {
+  background: url("../../assets/images/TUXEDO-computers.png") no-repeat 0 -27px;
+}
+footer .marvell {
+  background: url("../../assets/images/marvell.png") no-repeat 0 0;
+  width: 62px;
+  height: 23px;
+}
+footer .marvell:hover {
+  background: url("../../assets/images/marvell.png") no-repeat 0 -27px;
 }
 video {
   width: 100%;

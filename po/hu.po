@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-11-20 10:57:24 +0100\n"
 "PO-Revision-Date: 2019-05-21 15:53+0000\n"
-"Last-Translator: Sarah Kriesch <ada.lovelace@gmx.de>\n"
+"Last-Translator: Kardos László <lacesz@ox.io>\n"
 "Language-Team: Hungarian <https://l10n.opensuse.org/projects/searchpage/"
 "master/hu/>\n"
 "Language: hu\n"
@@ -20,52 +20,52 @@ msgstr "openSUSE keresés"
 
 #: index.html:27
 msgid "Get software"
-msgstr ""
+msgstr "Letöltés"
 
 #: index.html:30
 msgid "Wiki"
-msgstr ""
+msgstr "Wiki"
 
 #: index.html:33
 msgid "Build Service"
-msgstr ""
+msgstr "Építő"
 
 #: index.html:44
 msgid "What are you searching for?"
-msgstr ""
+msgstr "Mit szeretne keresni?"
 
 #: index.html:46
 msgid "Search with Google"
-msgstr ""
+msgstr "Google keresés"
 
 #: index.html:51
 msgid "Powered by"
-msgstr ""
+msgstr "Powered by"
 
 #: index.html:98
 msgid "Social Network"
-msgstr ""
+msgstr "Közösség"
 
 #: index.html:101
 msgid "News"
-msgstr ""
+msgstr "Hírek"
 
 #: index.html:104
 msgid "Forums"
-msgstr ""
+msgstr "Fórumok"
 
 #: index.html:107
 msgid "Shop"
-msgstr ""
+msgstr "Vásárlás"
 
 #: index.html:110
 msgid "Blogs"
-msgstr ""
+msgstr "Blogok"
 
 #: index.html:113
 msgid "Press"
-msgstr ""
+msgstr "Sajtó"
 
 #: index.html:119
 msgid "Change language"
-msgstr ""
+msgstr "Nyelv módosítás"

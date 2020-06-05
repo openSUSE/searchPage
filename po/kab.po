@@ -35,8 +35,8 @@ msgid "What are you searching for?"
 msgstr "Acu i tettnadiḍ?"
 
 #: index.html:46
-msgid "Search with Google"
-msgstr "Nadi s Google"
+msgid "Search with PrivacyTools"
+msgstr "Nadi s PrivacyTools"
 
 #: index.html:51
 msgid "Powered by"

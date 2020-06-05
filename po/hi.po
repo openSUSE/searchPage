@@ -35,7 +35,7 @@ msgid "What are you searching for?"
 msgstr "आप क्या खोजना चाहते हैं?"
 
 #: index.html:46
-msgid "Search with Google"
+msgid "Search with PrivacyTools"
 msgstr "गूगल पर खोजें"
 
 #: index.html:51

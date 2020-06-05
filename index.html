@@ -38,18 +38,18 @@
         <div class="row">
           <div class="fixed-column-form text-center">
             <img src="assets/videos/open-suse-welcome.gif" />
-            <form method="get" action="https://www.google.com/search" class="index-search-form">
+            <form method="POST" action="https://search.privacytools.io/search" class="index-search-form">
               <div class="input-group">
                 <img src="assets/images/opensuse-logo.png" class="opensuse-logo-fixed" />
-                <input type="text" name="q" class="form-control" autofocus lang="en" placeholder="What are you searching for?" />
+                <input type="text" name="q" minlength="1" maxlength="255" class="form-control" autofocus lang="en" placeholder="What are you searching for?" />
                 <span class="input-group-btn">
-                  <input type="submit" class="btn btn-primary" lang="en" value="Search with Google">
+                  <input type="submit" class="btn btn-primary" lang="en" value="Search with PrivacyTools">
                 </span>
               </div>
             </form>
-            <div class="text-left powered-by-google">
+            <div class="text-left powered-by">
               <small lang="en">Powered by</small>
-              <img src="assets/images/google-powered-by.png" />
+              <img src="assets/images/powered-by-privacytools.svg" width="80" height="20" alt="PrivacyTools" />
             </div>
           </div>
         </div>
@@ -60,17 +60,6 @@
         <div class="col-md-6 hidden-sm hidden-xs">
           <ul class="horizontal-list-no-list-style">
             <li>
-              <a href="https://www.suse.com/" target="_blank">
-                <div class="suse-logo"></div>
-              </a>
-            </li>
-            <li>
-              <a href="https://en.opensuse.org/Sponsors">
-                <div class="AMD-logo"></div>
-              </a>
-            </li>
-            <li>
-              <a href="https://en.opensuse.org/Sponsors">
                 <div class="heinlein-logo"></div>
               </a>
             </li>

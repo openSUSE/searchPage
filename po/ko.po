@@ -33,7 +33,7 @@ msgid "What are you searching for?"
 msgstr "무엇을 찾고 계세요?"
 
 #: index.html:46
-msgid "Search with Google"
+msgid "Search with PrivacyTools"
 msgstr "구글로 검색"
 
 #: index.html:51

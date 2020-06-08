@@ -31,7 +31,7 @@ msgid "What are you searching for?"
 msgstr ""
 
 #: index.html:46
-msgid "Search with Google"
+msgid "Search with PrivacyTools"
 msgstr ""
 
 #: index.html:51

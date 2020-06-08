@@ -35,8 +35,8 @@ msgid "What are you searching for?"
 msgstr "何をお探しですか？"
 
 #: index.html:46
-msgid "Search with Google"
-msgstr "Google で検索"
+msgid "Search with PrivacyTools"
+msgstr "PrivacyTools で検索"
 
 #: index.html:51
 msgid "Powered by"

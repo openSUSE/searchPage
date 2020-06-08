@@ -35,8 +35,8 @@ msgid "What are you searching for?"
 msgstr "Vad söker du?"
 
 #: index.html:46
-msgid "Search with Google"
-msgstr "Sök med Google"
+msgid "Search with PrivacyTools"
+msgstr "Sök med PrivacyTools"
 
 #: index.html:51
 msgid "Powered by"

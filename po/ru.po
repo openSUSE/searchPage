@@ -36,8 +36,8 @@ msgid "What are you searching for?"
 msgstr "Что вы ищете?"
 
 #: index.html:46
-msgid "Search with Google"
-msgstr "Искать в Google"
+msgid "Search with PrivacyTools"
+msgstr "Искать в PrivacyTools"
 
 #: index.html:51
 msgid "Powered by"

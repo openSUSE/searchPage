@@ -5,5 +5,5 @@ Please visit:
 http://opensuse.github.io/searchPage/
 
 # translations
-For translations, please use the processes of http://i18n.opensuse.org
+For translations, please use the processes of https://l10n.opensuse.org/projects/searchpage/master/
 for opensuse-search-page.pot
